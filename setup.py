@@ -9,7 +9,7 @@ setup(
     description="Library untuk membantu perkodingan Python",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/username/pyhelper", 
+    url="https://github.com/Barzx22/PyHelper", 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
